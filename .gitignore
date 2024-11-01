@@ -1,0 +1,9 @@
+notes.txt
+.DS_Store
+__pycache__
+node_modules
+
+
+dataset/daily_forex_rates.csv
+dataset/pairs_data.csv
+dataset/mock.csv
